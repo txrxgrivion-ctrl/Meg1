@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="100%" height="100%" fill="none" />
+  <!-- Small twinkling stars -->
+  <circle cx="15" cy="40" r="0.8" fill="#fff" opacity="0.6" />
+  <circle cx="65" cy="15" r="1.2" fill="#fff" opacity="0.9" />
+  <circle cx="110" cy="85" r="1" fill="#c084fc" opacity="0.5" />
+  <circle cx="180" cy="30" r="0.7" fill="#fff" opacity="0.4" />
+  <circle cx="230" cy="90" r="1.5" fill="#22d3ee" opacity="0.8" />
+  <circle cx="280" cy="50" r="1.2" fill="#fff" opacity="0.7" />
+  <circle cx="340" cy="15" r="1" fill="#fff" opacity="0.5" />
+  <circle cx="390" cy="75" r="0.8" fill="#c084fc" opacity="0.6" />
+  
+  <circle cx="45" cy="140" r="1" fill="#fff" opacity="0.8" />
+  <circle cx="95" cy="185" r="1.4" fill="#22d3ee" opacity="0.9" />
+  <circle cx="150" cy="110" r="0.7" fill="#fff" opacity="0.3" />
+  <circle cx="210" cy="165" r="1" fill="#fff" opacity="0.8" />
+  <circle cx="260" cy="120" r="1.6" fill="#c084fc" opacity="0.9" />
+  <circle cx="315" cy="190" r="0.8" fill="#fff" opacity="0.5" />
+  <circle cx="365" cy="145" r="1.2" fill="#fff" opacity="0.7" />
+  
+  <circle cx="25" cy="240" r="1.2" fill="#fff" opacity="0.8" />
+  <circle cx="75" cy="290" r="0.8" fill="#fff" opacity="0.5" />
+  <circle cx="130" cy="225" r="1.5" fill="#22d3ee" opacity="0.8" />
+  <circle cx="195" cy="275" r="1" fill="#fff" opacity="0.6" />
+  <circle cx="245" cy="210" r="0.7" fill="#fff" opacity="0.4" />
+  <circle cx="295" cy="295" r="1.2" fill="#c084fc" opacity="0.7" />
+  <circle cx="350" cy="235" r="1" fill="#fff" opacity="0.8" />
+  
+  <circle cx="55" cy="340" r="0.8" fill="#fff" opacity="0.5" />
+  <circle cx="105" cy="385" r="1.3" fill="#c084fc" opacity="0.7" />
+  <circle cx="160" cy="320" r="1" fill="#fff" opacity="0.9" />
+  <circle cx="220" cy="365" r="1.6" fill="#22d3ee" opacity="0.8" />
+  <circle cx="275" cy="310" r="0.7" fill="#fff" opacity="0.4" />
+  <circle cx="330" cy="375" r="1.2" fill="#fff" opacity="0.8" />
+  <circle cx="380" cy="325" r="0.9" fill="#fff" opacity="0.6" />
+</svg>
