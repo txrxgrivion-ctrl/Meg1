@@ -785,7 +785,7 @@ export default function Home() {
                     className="text-cyan-400/80 hover:text-cyan-300 flex items-center gap-1 mx-auto transition-colors"
                   >
                     <HelpCircle size={13} />
-                    Besoin des mots secrets de test ?
+                    Besoin des mots secrets ?
                   </button>
                 </div>
 
@@ -797,8 +797,8 @@ export default function Home() {
                   >
                     <p className="font-semibold mb-1">🔑 Mots secrets disponibles :</p>
                     <ul className="list-disc list-inside space-y-1">
-                      <li>Wesley : <code className="bg-violet-950/40 px-1 rounded text-pink-300 font-mono font-bold">etoile</code> ou <code className="bg-violet-950/40 px-1 rounded text-pink-300 font-mono font-bold">wesley</code></li>
-                      <li>Mégane : <code className="bg-violet-950/40 px-1 rounded text-cyan-300 font-mono font-bold">crepuscule</code> ou <code className="bg-violet-950/40 px-1 rounded text-cyan-300 font-mono font-bold">megane</code></li>
+                      <li>Wesley : <code className="bg-violet-950/40 px-1 rounded text-pink-300 font-mono font-bold">cherche au fond de ton coeur</code> ou <code className="bg-violet-950/40 px-1 rounded text-pink-300 font-mono font-bold">pas?</code></li>
+                      <li>Mégane : <code className="bg-violet-950/40 px-1 rounded text-cyan-300 font-mono font-bold">il est toujours près de toi</code> ou <code className="bg-violet-950/40 px-1 rounded text-cyan-300 font-mono font-bold">pas?</code></li>
                     </ul>
                     <p className="text-[10px] text-gray-400 mt-2 italic">
                       L&apos;application s&apos;ouvrira de son point de vue (messages à droite, ceux du partenaire à gauche) avec mise à jour du statut temps réel.
