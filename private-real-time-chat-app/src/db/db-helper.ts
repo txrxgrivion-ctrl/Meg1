@@ -11,7 +11,7 @@ export async function ensureUsersSeeded() {
       await db.insert(users).values({
         id: "wesley",
         name: "Wesley",
-        password: "etoile", // Secondary password: 'wesley' handled in authentication code
+        password: "lune", // Secondary password: 'wesley' handled in authentication code
         isOnline: false,
         lastSeen: new Date(),
         avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200", // placeholder
@@ -24,7 +24,7 @@ export async function ensureUsersSeeded() {
       await db.insert(users).values({
         id: "megane",
         name: "Mégane",
-        password: "crepuscule", // Secondary password: 'megane' handled in authentication code
+        password: "soleil", // Secondary password: 'megane' handled in authentication code
         isOnline: false,
         lastSeen: new Date(),
         avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=200", // placeholder
